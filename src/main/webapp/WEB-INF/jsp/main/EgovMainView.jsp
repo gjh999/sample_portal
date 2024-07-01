@@ -44,7 +44,7 @@
             <div class="p_main">
                 <div class="visual">
                     <p>
-                        <span class="t1">표준프레임워크</span>
+                        <span class="t1">표준프레임워크(jenkins)</span>
                         <span class="t2">경량환경 포털</span>
                         <span class="t3">표준프레임워크 경량화 포탈에 대한 전반적인 지원을 약속합니다.</span>
                     </p>
